@@ -34,6 +34,10 @@ colors.forEach((colors) => {
 </nav>
 ```
 
+### Billede af trøje
+
+![Billede af stribet trøje.](img/stripedshirt.png)
+
 # Markdown Dokumentation
 
 **Formålet:**
