@@ -38,6 +38,10 @@ colors.forEach((colors) => {
 
 ![Billede af stribet trøje.](img/stripedshirt.png)
 
+### Citat fra en kendt person
+
+> "Markdown er ikke bare et værktøj, det er en filosofi." - Ukendt
+
 # Markdown Dokumentation
 
 **Formålet:**
