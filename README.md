@@ -1,5 +1,7 @@
 # Markdown Øvelse
 
+# Markdown Dokumentation
+
 **Formålet:**
 At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
 
