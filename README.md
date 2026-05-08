@@ -22,6 +22,18 @@ colors.forEach((colors) => {
 });
 ```
 
+### Kodeeksempel med HTML
+
+```HTML
+<nav>
+    <ul>
+        <li><a href="/shop">Shop</a></li>
+        <li><a href="/omos">Om os</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+    </ul>
+</nav>
+```
+
 # Markdown Dokumentation
 
 **Formålet:**
