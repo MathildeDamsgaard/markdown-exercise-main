@@ -2,8 +2,19 @@
 
 # Markdown Dokumentation
 
-**Formålet:**
-At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
+### Fordele ved at bruge Markdown
+
+- Det er simpelt at lære
+  - Det er let at forstå
+- Perfekt til noter og dokumentation
+- Det er hurtigere at skrive end formateret tekst
+- Markdown bruges i mange populære værktøjer og platforme, fx:
+  - GitHub
+  - Notion
+  - Obsidian
+  - Visual Studio Code
+    **Formålet:**
+    At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
 
 # Opgave:
 
