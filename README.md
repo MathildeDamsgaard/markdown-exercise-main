@@ -12,6 +12,16 @@
   - Obsidian
   - Visual Studio Code
 
+### Kodeeksempel med JavaScript
+
+```JS
+const colors = ["pink, purple, blue, green"];
+
+colors.forEach((colors) => {
+    console.log(colors);
+});
+```
+
 # Markdown Dokumentation
 
 **Formålet:**
