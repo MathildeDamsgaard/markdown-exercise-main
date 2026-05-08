@@ -1,7 +1,5 @@
 # Markdown Øvelse
 
-# Markdown Dokumentation
-
 ### Fordele ved at bruge Markdown
 
 - Det er simpelt at lære
@@ -13,8 +11,11 @@
   - Notion
   - Obsidian
   - Visual Studio Code
-    **Formålet:**
-    At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
+
+# Markdown Dokumentation
+
+**Formålet:**
+At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
 
 # Opgave:
 
